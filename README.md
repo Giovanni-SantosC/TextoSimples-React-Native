@@ -1,0 +1,1 @@
+# TextoSimples-React-Native
